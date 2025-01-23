@@ -1,5 +1,5 @@
 # --- IDE & Editor ---
-# JetBrains (IntelliJ, WebStorm, etc.)
+# JetBrains (IntelliJ, WebStorm, PyCharm, etc.)
 .idea/
 *.iml
 *.ipr
